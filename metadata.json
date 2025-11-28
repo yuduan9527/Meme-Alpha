@@ -1,0 +1,5 @@
+{
+  "name": "MemeNarrativeAI",
+  "description": "A specialized AI agent for analyzing cryptocurrency meme narratives, cultural origins, and community vibes using real-time data.",
+  "requestFramePermissions": []
+}
